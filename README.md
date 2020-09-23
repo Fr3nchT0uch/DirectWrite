@@ -1,7 +1,8 @@
 # DirectWrite
 Command-line script to write binary files on an Apple DSK disk image.
 
-© FRENCH TOUCH - 2019
+© FRENCH TOUCH - 2019-2020
+Code by Grouik/French Touch
 
 DISCLAIMER: 
 This Python script has been written to help Apple II cross-development on PC and is made to be executed from a command line. 
